@@ -172,6 +172,10 @@ cython_debug/
 .idea/
 .pytest_cache
 .DS_Store
+
+# Test File
+test.py
+configs/*.py
 startup.sh
 *.ipynb
 
